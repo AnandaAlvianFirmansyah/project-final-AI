@@ -1,9 +1,13 @@
-# Project final ai
+# Project final AI
 PROJECT FINAL KELOMPOK 1 AI KELAS F
 NAMA KELOMPOK : ANANDA ALVIAN FIRMANSYAH
               : RAHAYU ISNAINI
               
-              
+# Deskripsi
+project akhir yang kami buat untuk mata kuliah Kecerdasan Buatan menggunakan label Daun sebagai dataset yang kami kumpulkan.
+data set kami terdiri dari Daun Pandan & Daun Jeruk Nipis.
+
+
 # Metode
 metode yang kami gunakan untuk mengumpulkan dataset adalah dengan menggunakan kamera handphone
 
